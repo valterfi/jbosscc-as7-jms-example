@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: valterfi
+Class-Path: hornetq-core-client-2.2.13.Final.jar netty-3.2.7.Final.jar
+  hornetq-jms-client-2.2.13.Final.jar jboss-ejb-client-1.0.5.Final.jar
+  jboss-remote-naming-1.0.1.Final.jar jboss-logging-3.1.0.GA.jar jboss
+ -marshalling-1.3.11.GA.jar jboss-marshalling-river-1.3.11.GA.jar jbos
+ s-remoting-3.2.3.GA.jar jboss-sasl-1.0.0.Final.jar jboss-transaction-
+ api_1.1_spec-1.0.0.Final.jar jboss-ejb-api_3.1_spec-1.0.1.Final.jar x
+ nio-api-3.0.3.GA.jar xnio-nio-3.0.3.GA.jar
+Build-Jdk: 1.8.0_162
+Created-By: Maven Integration for Eclipse
+
